@@ -1,1 +1,3 @@
 # pairpro
+
+katakana
